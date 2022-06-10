@@ -6,7 +6,7 @@ import math,os
 import numpy as np
 import matplotlib.pyplot as plt
 
-os.chdir("/Users/yililuo/Downloads/罗毓麟/数据结构与算法学习/机器学习算法实现/Logistic_Regression")
+os.chdir("./Logistic_Regression")
 
 
 def Sigmoid(theta, X):
